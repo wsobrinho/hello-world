@@ -7,7 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("+-----Sistema 1.2-----+");
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Ola Mundo! Belo! Ok!");
             Console.WriteLine("Pressione qualquer tecla para sair!");
             Console.ReadKey();
         }
