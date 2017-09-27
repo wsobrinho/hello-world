@@ -6,7 +6,6 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("-----NOVA TELA------");
             Console.WriteLine("Hello World.!");
             //Console.WriteLine("-----Pressione qualquer tecla para sair-----");
             //inserindo resposta do usuarioa
