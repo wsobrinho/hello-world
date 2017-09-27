@@ -6,8 +6,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!"); //removido ponto
-            //Console.WriteLine("-----Pressione qualquer tecla para sair-----");
+            Console.WriteLine("-----Sistema 1.2-----");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("-----Pressione qualquer tecla para sair-----");
             //inserindo resposta do usuarioa
             Console.ReadKey();
         }
